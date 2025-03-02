@@ -1,4 +1,4 @@
-# Crop a document
+# Document cropper
 
 I have a lot of documents lying around. The dream is to digitise them all and get rid of the paper piles. The sheer amount, though, makes this very intimidating.
 
